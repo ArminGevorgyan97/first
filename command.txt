@@ -1,0 +1,9 @@
+1.popoxutyun anel
+faili mech mi ban grel orinak - caxik
+
+server uxarkely popoxutyuny
+1.yashiki mech lcnel --git add
+2.yashiky pakel inch vor ban grel-- git commit -m"inch vor ban"
+3.git push-uxarkel server
+
+git status-amen angam anum es vor tenas exela te che
