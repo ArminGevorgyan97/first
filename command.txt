@@ -2,8 +2,29 @@
 faili mech mi ban grel orinak - caxik
 
 server uxarkely popoxutyuny
-1.yashiki mech lcnel --git add
-2.yashiky pakel inch vor ban grel-- git commit -m"inch vor ban"
-3.git push-uxarkel server
+1.yashiki mech lcnel --git add+filei hascen-dnel giti yashiki mech
+popoxutyun-popoxutyun kochvacy ena vor file i anunn em poxel orinak?
+kam michi gracy
 
-git status-amen angam anum es vor tenas exela te che
+git add vor anum es inqy yashiki mej dnuma 
+voch te filery voch te papkeqy ayl popoxutyunt
+
+2.git commit -m"inch vor ban...."pakel yashiky
+3.git push-uxarkel server
+4.git status-amen angam anum es vor tenas exela te che
+5.git clone,ete addi tepqum uxarkum em saytis vra,es depqum het em berum kompis mech
+6.git reset --hard. inchqan changer unem vory der commit chem tvel reset a anum,aysinqn cancel
+                            inchqan popoxutyun unem vor hly commit chem arel cancel a anum
+7.git pull -indcnic baci inchqan mard pusha arel et changery(popoxutyun) im mot
+8.stash-ha ete uzum es changert vorosh zhamanakov anhetanan git stash es anum
+heto ete mi angam arel es u dranic heto inch vor ban es poxel u eli uzum es git stash ane.
+bayc vor add es anum heto talis es pahi vor heto el asum es de het tur inqy nuyn dzev chi dnum yashiky, qcuma koxqery.
+noric piti add anes. hly porci ktenas et vaxt anuma u gnuma en hin aractit vrena dnum 
+9.git stash pop ov el verjin stash aract het es berum
+
+change-popoxutyun
+brunch-chux
+
+popoxutyun-unes mi hat papka, vori mej inch ases ka.
+du cankacac ban ettex vor anes, fail jnjes, avelacnes, exacneri mej ban poxes, cankacac bannnn... et kochvuma popoxutyun
+hima du git add es anum et popoxutyuny
