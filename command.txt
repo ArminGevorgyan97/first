@@ -1,40 +1,34 @@
-1.popoxutyun anel
-faili mech mi ban grel orinak - caxik
+git  command
+1.change - popoxutyun cankacac ban vor anem fail jnjel, avelacnel, exacneri mej ban poxel
 
-server uxarkely popoxutyuny
-1.yashiki mech lcnel --git add+filei hascen-dnel giti yashiki mech
-popoxutyun-popoxutyun kochvacy ena vor file i anunn em poxel orinak?
-kam michi gracy
+2.gitt add - (yashiki mech lcnel) 
+git add filei hascen   orinak   asdf.txt
+git add y yashiki mecha dnum change(popoxutyuns) 
 
-git add vor anum es inqy yashiki mej dnuma 
-voch te filery voch te papkeqy ayl popoxutyunt
+3.git commit -m"inch vor ban...." enter  pakel
 
-2.git commit -m"inch vor ban...."pakel yashiky
-3.git push-uxarkel server
-4.git status-amen angam anum es vor tenas exela te che
-5.git clone,ete addi tepqum uxarkum em saytis vra,es depqum het em berum kompis mech
-6.git reset --hard. inchqan changer unem vory der commit chem tvel reset a anum,aysinqn cancel
-                            inchqan popoxutyun unem vor hly commit chem arel cancel a anum
-7.git pull -indcnic baci inchqan mard pusha arel et changery(popoxutyun) im mot
-8.stash-ha ete uzum es changert vorosh zhamanakov anhetanan git stash es anum
-heto ete mi angam arel es u dranic heto inch vor ban es poxel u eli uzum es git stash ane.
-bayc vor add es anum heto talis es pahi vor heto el asum es de het tur inqy nuyn dzev chi dnum yashiky, qcuma koxqery.
-noric piti add anes. hly porci ktenas et vaxt anuma u gnuma en hin aractit vrena dnum 
-9.git stash pop ov el verjin stash aract het es berum
+4.git push - uxarkel server
 
-change-popoxutyun
-brunch-chux
+5.git status - amen angam anel hamozvelu hamar exela aracs te che
 
+6.git clone - ete addi tepqum uxarkum em githum(ej) es depqum het em berum kompis mech
 
-popoxutyun-unes mi hat papka, vori mej inch ases ka.
-du cankacac ban ettex vor anes, fail jnjes, avelacnes, exacneri mej ban poxes, cankacac bannnn... et kochvuma popoxutyun
-hima du git add es anum et popoxutyuny
+7.git reset --hard  inchqan changer(popoxutyun) unem vory der commit(pakel) chem tvel reset a anum,aysinqn jnjuma
+                           
+8.git pull - indcnic baci inchqan mard pusha arel et changery(popoxutyun) im mot cuyc ta
 
-git pull
-git status
-git push
-git checkout
-git branch
-git commit
-git add
-git restore
+9.git stash -ete uzum em changer vorosh zhamanakov anhetanan git stash
+heto ete mi angam arel em u dranic heto inch vor ban em poxel u eli uzum em git stash anem 
+bayc vor add em anum heto talis em pahi vor heto el asum em de het tur inqy nuyn dzev chi dnum yashiky,
+qcuma koxqery noric piti add anem 
+
+9.git stash pop - verjin stash arac heta berum
+
+10.git branch -d sax jnjuma 
+
+11.git brunch - cuyca tali vor brunchi vra em(chux)
+
+13.git checkout - gnam urish chux  orinak- git-checkout main(anuny grem)
+
+description-nkaragrutyun
+
