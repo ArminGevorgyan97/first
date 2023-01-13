@@ -24,11 +24,14 @@ qcuma koxqery noric piti add anem
 
 9.git stash pop - verjin stash arac heta berum
 
-10.git branch -d sax jnjuma 
+10.git branch -d jnjuma sax brunchnery
 
 11.git brunch - cuyca tali vor brunchi vra em(chux)
 
 13.git checkout - gnam urish chux  orinak- git-checkout main(anuny grem)
+
+14. git checkout  -b(brunchi anuny) sarquma en brunchic vori vra nerka pahin gtnvum em(orinak main,sarqvuma mainic)
+
 
 description-nkaragrutyun
 
