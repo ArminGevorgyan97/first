@@ -29,3 +29,12 @@ brunch-chux
 popoxutyun-unes mi hat papka, vori mej inch ases ka.
 du cankacac ban ettex vor anes, fail jnjes, avelacnes, exacneri mej ban poxes, cankacac bannnn... et kochvuma popoxutyun
 hima du git add es anum et popoxutyuny
+
+git pull
+git status
+git push
+git checkout
+git branch
+git commit
+git add
+git restore
