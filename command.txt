@@ -31,4 +31,6 @@ qcuma koxqery noric piti add anem
 13.git checkout - gnam urish chux  orinak- git-checkout main(anuny grem)
 
 description-nkaragrutyun
+local-komp
+
 
