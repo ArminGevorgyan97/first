@@ -1,5 +1,5 @@
 git  command
-1.change - popoxutyun cankacac ban vor anem fail jnjel, avelacnel, exacneri mej ban poxel
+1.change - popoxutyun. cankacac ban vor anem fail jnjel, avelacnel, exacneri mej ban poxel
 
 2.gitt add - (yashiki mech lcnel) 
 git add filei hascen   orinak   asdf.txt
@@ -9,7 +9,7 @@ git add y yashiki mecha dnum change(popoxutyuns)
 
 4.git push - uxarkel server
 
-5.git status - amen angam anel hamozvelu hamar exela aracs te che
+5.git status - amen angam anel hamozvelu hamar exela aracs te che,inch changer unem
 
 6.git clone - ete addi tepqum uxarkum em githum(ej) es depqum het em berum kompis mech
 
@@ -26,7 +26,7 @@ qcuma koxqery noric piti add anem
 
 10.git branch -d jnjuma sax brunchnery
 
-11.git brunch - cuyca tali vor brunchi vra em(chux)
+11.git branch - cuyca tali vor brunchi vra em(chux)
 
 13.git checkout - gnam urish chux  orinak- git-checkout main(anuny grem)
 
@@ -34,4 +34,6 @@ qcuma koxqery noric piti add anem
 
 
 description-nkaragrutyun
-
+assign-handcnararutyun
+reviewerner-
+change pakel
