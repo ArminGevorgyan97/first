@@ -30,16 +30,14 @@ qcuma koxqery noric piti add anem
 
 13.git checkout - gnam urish chux  orinak- git-checkout main(anuny grem)
 
-<<<<<<< HEAD
-description-nkaragrutyun
-local-komp
+14. git push --set-upstream  erb vor nor branch es uzum publish anes
 
-=======
-14. git checkout  -b(brunchi anuny) sarquma en brunchic vori vra nerka pahin gtnvum em(orinak main,sarqvuma mainic)
->>>>>>> bf8254de7ab56f9445de3de8b0031c50c9f4f355
+15. git checkout  -b(brunchi anuny) sarquma en brunchic vori vra nerka pahin gtnvum em(orinak main,sarqvuma mainic)
 
 
 description-nkaragrutyun
 assign-handcnararutyun
-reviewerner-
-change pakel
+reviewer-stugel
+change-popoxutyun
+description-nkaragrutyun
+local-komp
