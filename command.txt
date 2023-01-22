@@ -37,7 +37,7 @@ qcuma koxqery noric piti add anem
 
 description-nkaragrutyun
 assign-handcnararutyun
-reviewerner-
-change pakel
+reviewer-stugel
+change-popoxutyun
 description-nkaragrutyun
 local-komp
