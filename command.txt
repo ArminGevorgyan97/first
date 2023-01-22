@@ -30,13 +30,12 @@ qcuma koxqery noric piti add anem
 
 13.git checkout - gnam urish chux  orinak- git-checkout main(anuny grem)
 
-<<<<<<< HEAD
+
 description-nkaragrutyun
 local-komp
 
 =======
 14. git checkout  -b(brunchi anuny) sarquma en brunchic vori vra nerka pahin gtnvum em(orinak main,sarqvuma mainic)
->>>>>>> bf8254de7ab56f9445de3de8b0031c50c9f4f355
 
 
 description-nkaragrutyun
