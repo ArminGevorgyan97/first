@@ -30,7 +30,7 @@ qcuma koxqery noric piti add anem
 
 13.git checkout - gnam urish chux  orinak- git-checkout main(anuny grem)
 
-
+14. git push --set-upstream  erb vor nor branch es uzum publish anes
 description-nkaragrutyun
 local-komp
 
