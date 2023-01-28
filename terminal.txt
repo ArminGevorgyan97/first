@@ -1,0 +1,33 @@
+cd ic root gnalu hamar  grum em cd
+
+cd- texapoxvel mi hasceic depi myuse
+
+cd ./asdf (anuny) uzum em texapoxvem urish file
+
+cd .  1ket vor dnem et nshanakuma hima vortex kangnac em
+ 
+cd .. 2ket nshankuma indcnic 1hat verev
+
+cd ../../  2 angam indcnic verev (kak karam hat hat anem ../)
+
+cd../  het gnam naxord hasce
+
+ls - cuyca tali folderis mech inch ka aysinqn qani hat eli dile
+
+ls -la  cuyca tali aveli manramasn te ova sarqel erba sarqel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root - armat - arajnain
