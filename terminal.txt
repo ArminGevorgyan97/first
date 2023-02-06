@@ -10,7 +10,7 @@ cd .. 2ket nshankuma indcnic 1hat verev
 
 cd ../../  2 angam indcnic verev (kak karam hat hat anem ../)
 
-cd../  het gnam naxord hasce
+cd ../  het gnam naxord hasce
 
 ls - cuyca tali folderis mech inch ka aysinqn qani hat eli file anunnerna grum
 
@@ -26,7 +26,7 @@ nano file bacel nano html.txt
 
 nano pakel nano ctrl x u y kam n  heto enter 
 
-
+mkdir - folder sarqel (mkdir = make + directory) mkdir + anuny
 
 
 
