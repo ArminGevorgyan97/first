@@ -1,0 +1,17 @@
+
+
+
+hajord comandy
+delete folder
+ete file jnjum es "rm hasce/anun.txt"
+foldery jnjum es
+"rm -rf hasce/anun"
+
+
+
+
+
+
+
+
+
